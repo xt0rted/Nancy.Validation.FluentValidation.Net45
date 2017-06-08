@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Validation.FluentValidation.NET45.Tests", "test\Nancy.Validation.FluentValidation.NET45.Tests\Nancy.Validation.FluentValidation.NET45.Tests.csproj", "{FBC35268-377B-4DBE-87E3-B22D1314BEC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Validation.FluentValidation.Net45.Tests", "test\Nancy.Validation.FluentValidation.Net45.Tests\Nancy.Validation.FluentValidation.Net45.Tests.csproj", "{FBC35268-377B-4DBE-87E3-B22D1314BEC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Validation.FluentValidation.NET45", "src\Nancy.Validation.FluentValidation.NET45\Nancy.Validation.FluentValidation.NET45.csproj", "{01230F2A-D108-480C-B834-8CE0569FD3B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Validation.FluentValidation.Net45", "src\Nancy.Validation.FluentValidation.Net45\Nancy.Validation.FluentValidation.Net45.csproj", "{01230F2A-D108-480C-B834-8CE0569FD3B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
