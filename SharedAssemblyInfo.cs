@@ -1,7 +1,7 @@
 using System.Reflection;
 
 [assembly: AssemblyCompany("Brian Surowiec")]
-[assembly: AssemblyProduct("Nancy.Validation.FluentValidation.NET45")]
+[assembly: AssemblyProduct("Nancy.Validation.FluentValidation.Net45")]
 [assembly: AssemblyCopyright("Copyright © 2017")]
 
 [assembly: AssemblyInformationalVersion("0.1.0")]
