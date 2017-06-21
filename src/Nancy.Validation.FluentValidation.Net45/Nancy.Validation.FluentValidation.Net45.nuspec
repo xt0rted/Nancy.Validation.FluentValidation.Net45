@@ -8,6 +8,7 @@
     <owners>$author$</owners>
     <licenseUrl>https://github.com/xt0rted/Nancy.Validation.FluentValidation.Net45/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/xt0rted/Nancy.Validation.FluentValidation.Net45</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/xt0rted/Nancy.Validation.FluentValidation.Net45/media/images/nuget.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <copyright>Copyright 2017</copyright>
